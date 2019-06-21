@@ -1,0 +1,10 @@
+#POST http://localhost:5000/api/users
+ #content-type: application/json
+
+ #{
+  # "Fname":"Leo",
+ # "Lname":"Cookson",
+ #  "Uname":"LC",
+  # "Passwrd":"1111",
+  # "Email":"leocookson@outlook.com",
+# }

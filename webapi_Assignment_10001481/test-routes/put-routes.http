@@ -1,0 +1,11 @@
+# PUT http://localhost:5000/api/users/2
+# content-type: application/json
+
+# {
+   #  "id": 2,
+  #  "fname": "Tony",
+  #   "lname": "Stark",
+  #  "uname": "Iron1",
+  #  "passwrd": "Iron1",
+  #  "email": "tony.stark@avengers.com"
+ }
